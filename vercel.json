@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "http://acydxnm.tpddns.cn:1002/$1" }
+    { "source": "/(.*)", "destination": "https://199l6f3726.goho.co/$1" }
   ]
 }
